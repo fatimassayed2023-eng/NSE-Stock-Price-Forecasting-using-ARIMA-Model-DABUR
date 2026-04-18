@@ -105,6 +105,10 @@ The problem is to analyze historical stock price data of an NSE-listed company a
 ### Visualization:
 
 <img width="986" height="528" alt="30 day Forecast" src="https://github.com/user-attachments/assets/b9364ecb-e3b2-4bd1-8a6c-a8f557a13b8e" />
+<img width="1005" height="547" alt="DABUR price trend" src="https://github.com/user-attachments/assets/0dd347cb-73a2-49c4-a2ad-c9479a05e7b0" />
+<img width="986" height="505" alt="forecast actual_Predicted" src="https://github.com/user-attachments/assets/2359fc1b-19e5-4d0b-b032-44315bf36cda" />
+
+
 
 
 ---
