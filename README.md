@@ -1,4 +1,4 @@
-# 📊 Assignment Title: Stock Price Forecasting using ARIMA Model (NSE)
+# Assignment Title: Stock Price Forecasting using ARIMA Model (NSE) 
 
 ---
 
